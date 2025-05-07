@@ -2,7 +2,7 @@
 
 learn languages. earn tokens. escape the owl.
 
-this repo contains the core logic powering [talken](https://twitter.com/talkenapp) – a learn-to-earn web app built on solana.
+this repo contains the core logic powering [talken](https://x.com/talkenapp) – a learn-to-earn web app built on solana.
 
 ---
 
