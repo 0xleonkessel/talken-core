@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fr_001",
+    "prompt": "Translate to French: 'rug pull'",
+    "solution": "tirer le tapis"
+  },
+  {
+    "id": "fr_002",
+    "prompt": "Translate to English: 'bonjour'",
+    "solution": "hello"
+  }
+]
