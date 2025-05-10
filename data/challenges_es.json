@@ -1,0 +1,17 @@
+[
+  {
+    "id": "es_001",
+    "prompt": "Translate to English: 'hola'",
+    "solution": "hello"
+  },
+  {
+    "id": "es_002",
+    "prompt": "Translate to Spanish: 'good night'",
+    "solution": "buenas noches"
+  },
+  {
+    "id": "es_003",
+    "prompt": "Translate to Spanish: 'paper hands'",
+    "solution": "manos de papel"
+  }
+]
